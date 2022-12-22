@@ -14,13 +14,13 @@
 
 ### Limpar temporários
 1. win+r <- abre o executar
-2. cleanmgr <- abre o prompt de comandos
+2. cleanmgr <- abre a tela de limpeza de disco
 3. Selecione itens a serem apagados
 4. ok 
 
 ### Anti vírus do windows
 1. win+r <- abre o executar
-2. mrt <- abre o prompt de comandos
+2. mrt <- abre a tela de ferramenta de remoção de software mal-intencionado da Microsoft
 3. Selecione sim > avançar
 4. Escolha o tipo de Exame
   I. rápido
