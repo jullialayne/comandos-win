@@ -11,3 +11,19 @@
 2. cmd <- abre o prompt de comandos
 3. winget upgrade <- vê todas as atualizações de software
 4. winget upgrade --all <- atualiza de softwares
+
+### Limpar temporários
+1. win+r <- abre o executar
+2. cleanmgr <- abre o prompt de comandos
+3. Selecione itens a serem apagados
+4. ok 
+
+### Anti vírus do windows
+1. win+r <- abre o executar
+2. mrt <- abre o prompt de comandos
+3. Selecione sim > avançar
+4. Escolha o tipo de Exame
+  I. rápido
+  II. geral
+  III. personalizado
+5. Selecione avançar e espere o exame terminar e clique em concluir
