@@ -18,7 +18,7 @@
 3. Selecione itens a serem apagados
 4. ok 
 
-### Anti vírus do windows
+### Antivírus do windows
 1. win+r <- abre o executar
 2. mrt <- abre a tela de ferramenta de remoção de software mal-intencionado da Microsoft
 3. Selecione sim > avançar
