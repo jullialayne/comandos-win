@@ -33,3 +33,12 @@
 2. cmd <- abre o prompt de comando da Microsoft
 3. winget upgrade <- lista todos os softwares que precisam de atualização
 4. winget upgrade --all <- atualiza todos os softwares que precisam de atualização
+
+### Verificador de Arquivos do Sistema para reparar arquivos de sistema ausentes ou corrompidos
+1. win <- abre o iniciar 
+2. digite 'cmd' <- procura prompt de comando da Microsoft
+3. clique com botão esquerdo do mouse <- abre opções 
+4. clique em Executar como Administrador <- abre prompt como administrador
+5. clique em Sim <- para abrir o prompt
+6. digite 'sfc /scannow' e enter <- Verifica arquivos
+7. 'A Proteção de Recursos do Windows encontrou arquivos corrompidos e os reparou com êxito.' <- ao aparecer essa mensagem o processo está completo
