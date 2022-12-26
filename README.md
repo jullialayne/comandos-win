@@ -27,3 +27,9 @@
   II. geral
   III. personalizado
 5. Selecione avançar e espere o exame terminar e clique em concluir
+
+### Atualização dos softwares do windows
+1. win+r <- abre o executar
+2. cmd <- abre o prompt de comando da Microsoft
+3. winget upgrade <- lista todos os softwares que precisam de atualização
+4. winget upgrade --all <- atualiza todos os softwares que precisam de atualização
