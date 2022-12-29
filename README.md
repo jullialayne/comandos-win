@@ -47,6 +47,16 @@ ipconfig <- pega configurações do IP do Windows
 6. digite 'sfc /scannow' e enter <- Verifica arquivos
 7. 'A Proteção de Recursos do Windows encontrou arquivos corrompidos e os reparou com êxito.' <- ao aparecer essa mensagem o processo está completo
 
+### Ferramenta de Gerenciamento e Manutenção de Imagens de Implantação
+1. win <- abre o iniciar 
+2. digite 'cmd' <- procura prompt de comando da Microsoft
+3. clique com botão esquerdo do mouse <- abre opções 
+4. clique em Executar como Administrador <- abre prompt como administrador
+5. clique em Sim <- para abrir o prompt
+6. digite 'Dism /Online /Cleanup-Image /CheckHealth' e enter <- Verifica arquivos
+7. 'Nenhuma corrupção de repositório de componentes detectada.' <- ao aparecer essa mensagem o processo está completo
+
+
 ### Recursos do Windows: Tela sempre no topo, dividir tela em várias janelas organizadas, localize seu mouse na tela, extrator de texto entre vários outros
 1. abra o Microsoft Store e baixe o app PowerToys
 2. abra o PowerToys no iniciar do Windows
