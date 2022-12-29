@@ -47,5 +47,15 @@
 1. abra o Microsoft Store e baixe o app PowerToys
 2. abra o PowerToys no iniciar do Windows
 3. aproveite os recursos
+
 ![image](https://user-images.githubusercontent.com/83183478/209955130-14425c1a-09f7-41c7-a943-ef33b228da54.png)
 
+### Melhorar tempo de inicialização
+1. pressione win+r
+2. digite 'msconfig' e clique em ok
+3. abra a aba 'Inicialização de Sistema'
+4. clique em 'Opções Avançadas'
+5. selecione a caixa 'Número de processadores'
+6. na caixa abaixou coloque o máximo de processadores disponíveis na sua máquina
+7. clique em ok, depois em aplicar e ok novamente
+8. e está pronto
