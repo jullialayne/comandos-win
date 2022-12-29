@@ -6,6 +6,10 @@
 4. git push origin main
 
 # Comandos Windows
+
+systeminfo <- pega todas as informações do seu pc
+ipconfig <- pega configurações do IP do Windows
+
 ### Atualizar softwares windows
 1. win+r <- abre o executar
 2. cmd <- abre o prompt de comandos
