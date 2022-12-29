@@ -42,3 +42,10 @@
 5. clique em Sim <- para abrir o prompt
 6. digite 'sfc /scannow' e enter <- Verifica arquivos
 7. 'A Proteção de Recursos do Windows encontrou arquivos corrompidos e os reparou com êxito.' <- ao aparecer essa mensagem o processo está completo
+
+### Recursos do Windows: Tela sempre no topo, dividir tela em várias janelas organizadas, localize seu mouse na tela, extrator de texto entre vários outros
+1. abra o Microsoft Store e baixe o app PowerToys
+2. abra o PowerToys no iniciar do Windows
+3. aproveite os recursos
+![image](https://user-images.githubusercontent.com/83183478/209955130-14425c1a-09f7-41c7-a943-ef33b228da54.png)
+
