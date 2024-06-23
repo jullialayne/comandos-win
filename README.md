@@ -7,6 +7,7 @@
 
 # Comandos Windows
 
+wmic path softwarelicensingservice get OA3xOriginalProductKey <- puxa a chave de ativação do windows
 systeminfo <- pega todas as informações do seu pc
 ipconfig <- pega configurações do IP do Windows
 
